@@ -141,8 +141,6 @@ The `gfx` connects with `GRAPHIC` and receives the whole state (`msz`, `sgt`, `b
 │   ├── zappy_testlib.py    # Test helpers: server process, player, graphic observer
 │   └── test_zappy.py       # Standalone smoke test script
 ├── readme/zappy.png        # Header image
-├── subject_zappy.txt       # Subject
-├── protocol-gfx.pdf        # Server / graphical monitor protocol
 ├── Makefile
 └── LICENSE
 ```
@@ -372,8 +370,6 @@ Le `gfx` se connecte avec `GRAPHIC` et reçoit tout l'état (`msz`, `sgt`, `bct`
 │   ├── zappy_testlib.py    # Aides : processus serveur, joueur, observateur graphique
 │   └── test_zappy.py       # Script de test rapide autonome
 ├── readme/zappy.png        # Image d'en-tête
-├── subject_zappy.txt       # Sujet
-├── protocol-gfx.pdf        # Protocole serveur / moniteur graphique
 ├── Makefile
 └── LICENSE
 ```

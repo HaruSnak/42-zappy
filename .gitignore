@@ -1,0 +1,14 @@
+# Binaries built by the Makefile
+/server
+/client
+/gfx
+
+# Objects and dependency files
+/obj/*
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Valgrind core dumps
+vgcore.*
